@@ -1,0 +1,5 @@
+Python Packages Used:
+
+Distance: https://pypi.python.org/pypi/Distance
+
+Fuzzy Wuzzy: https://pypi.python.org/pypi/fuzzywuzzy
